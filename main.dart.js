@@ -80525,7 +80525,7 @@ r=A.eh(o,o,m.b,o,o,o,o,o,o,o,o,72,o,o,B.bP,o,1.05,!0,o,o,o,o,o,o,o,o)
 q=B.i.ao(1e5*(new A.dk(n).gF(0)+8))
 i=A.aql(A.b([new A.Ci(B.aM,n,B.aC,r,new A.aM(q),new A.dk(n))],i),!0)
 l=A.IV(A.hr(A.b([B.kr,j,i,B.QC,A.cl("A passionate Android developer with a strong interest in Android and Kotlin. Currently studying at GunadarmaUniversity, I started my Android development journey in 2018 and have worked on 10+ personal projects. I enjoycreating innovative and useful applications while continuously improving my skills. Adaptable to both independentand team-based work.",o,o,o,A.eh(o,o,k?m.k3:l,o,o,o,o,o,o,o,o,24,o,o,B.p,o,1.5,!0,o,o,o,o,o,o,o,o),o,o),B.QD,A.aFZ(B.Hp,B.Na,new A.ajr(),A.aG_(B.Qr,new A.cS(A.dA(16),B.r)))],s),B.bi,B.ad,B.aq),1)
-j=A.Jy(p.a.c+"images/me_blob.png",o,o)
+j=A.Jy(p.a.c+"assets/images/me_blob.png",o,o)
 i=p.e
 i===$&&A.a()
 r=m.y
@@ -80757,7 +80757,7 @@ O(a){var s,r,q=null,p=A.X(a),o=p.ax,n=o.a8
 n=A.cl("My Core Skills",q,q,q,A.eh(q,q,n==null?o.k3:n,q,q,q,q,q,q,q,q,48,q,q,B.bP,q,1.08,!0,q,q,q,q,q,q,q,q),B.b1,q)
 s=p.p1.r
 r=t.E
-return A.hr(A.b([B.bA,n,B.hH,A.cl("Expertise in crafting native Android and cross-platform mobile experiences.",q,q,q,s==null?q:s.cg(o.b),B.b1,q),B.bA,A.mT(A.b([new A.n_(A.Jy("images/jetpack_compose_logo.png",140,140),"Jetpack Compose",q),B.kq,new A.n_(A.Jy("images/android_logo_2019.png",140,140),"Native Android",q),B.kq,new A.n_(A.Jy("images/flutter_logo.png",140,140),"Flutter",q),B.kq,new A.n_(A.Jy("images/kotlin_logo.png",140,140),"Kotlin",q)],r),B.ac,B.eu,B.aq,q),B.bA],r),B.ac,B.eu,B.aq)}}
+return A.hr(A.b([B.bA,n,B.hH,A.cl("Expertise in crafting native Android and cross-platform mobile experiences.",q,q,q,s==null?q:s.cg(o.b),B.b1,q),B.bA,A.mT(A.b([new A.n_(A.Jy("assets/images/jetpack_compose_logo.png",140,140),"Jetpack Compose",q),B.kq,new A.n_(A.Jy("assets/images/android_logo_2019.png",140,140),"Native Android",q),B.kq,new A.n_(A.Jy("assets/images/flutter_logo.png",140,140),"Flutter",q),B.kq,new A.n_(A.Jy("assets/images/kotlin_logo.png",140,140),"Kotlin",q)],r),B.ac,B.eu,B.aq,q),B.bA],r),B.ac,B.eu,B.aq)}}
 A.n_.prototype={
 am(){return new A.Uq()}}
 A.Uq.prototype={
